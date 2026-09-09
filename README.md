@@ -171,6 +171,7 @@ forecasting accuracy.
 ![Actual vs Predicted](outputs/figures/actual_vs_predicted.png)
 
 ---
+````
 
 ## 📂 Project Structure
 
