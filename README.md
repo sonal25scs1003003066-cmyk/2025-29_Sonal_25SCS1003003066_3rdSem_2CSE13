@@ -1,9 +1,10 @@
-🌦️ Weather Data Analysis and Next-Day Temperature Prediction
+🌦️ Weather Data Analysis 
 
  AI/ML Internship Project
 
-**Student:** Sonal 
-**Roll Number:** 25SCS1003003066  
+**Student:** Sonal
+
+ Roll Number:25SCS1003003066  
 **Program:** B.Tech CSE (AI & ML)  
 **Semester:** 3rd Semester  
 **Section:** 2CSE13  
