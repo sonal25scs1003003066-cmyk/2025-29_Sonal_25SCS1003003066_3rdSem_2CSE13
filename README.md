@@ -31,7 +31,7 @@ This project analyzes historical weather data and predicts **next-day temperatur
 | Random Forest | 1.292 | 1.639 | 0.975 |
 
 ## 📁 Project Contents
-Includes Python source code, weather datasets, Jupyter Notebook, prediction results, visualizations, internship report, presentation, and certificate.
+Includes Python source code, weather datasets, prediction results, visualizations, internship report, presentation, and certificate.
 
 ## 👨‍💻 Author
 **Sonal**  
